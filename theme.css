@@ -1,3 +1,8 @@
 p {
  font-family:"Comic Sans MS", cursive, sans-serif;
  }
+.img {
+ border-color: pink;
+ border-style: dashed;
+  
+}
